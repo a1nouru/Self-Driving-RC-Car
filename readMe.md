@@ -7,4 +7,4 @@ One advantage of using neural network is that once the network is trained, it on
 There are four nodes in the output layer where each node corresponds to the steering control instructions: left, right, forward and reverse respectively (though reverse is not used anywhere in this project, it’s still included in the output layer).
 
 
-![alt text](https://imgur.com/a/gUv39)
+![alt tag](https://imgur.com/a/gUv39 "Description goes here")
